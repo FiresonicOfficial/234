@@ -1,0 +1,6 @@
+{
+  "name": "2 3 4 Oyuncu Mini Oyunlar",
+  "description": "2, 3 ve 4 kişilik eğlenceli parti mini oyunları (Tanklar, Yarış, Futbol, Sumo, Tavuk Koşusu ve Altın Kapmaca).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
